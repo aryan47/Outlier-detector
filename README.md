@@ -1,2 +1,2 @@
-# OutlinerDetector
-Used OutlinerDetector algorithm to detect outliners
+# OutlierDetector
+Used OutlierDetector algorithm to detect outliners
